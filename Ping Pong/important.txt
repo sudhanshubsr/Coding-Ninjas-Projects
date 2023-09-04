@@ -1,0 +1,12 @@
+document.addEventListener('click', () => {
+        startGame();
+    });
+
+
+
+function startGame() {
+    if (!gameStarted) {
+        gameStarted = true;
+        moveBall();
+    }
+}
