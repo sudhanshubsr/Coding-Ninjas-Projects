@@ -10,3 +10,12 @@ function startGame() {
         moveBall();
     }
 }
+
+
+>>The game is gonna run inside something called update loop
+
+
+
+>> we will be making different classes  to make things easier.
+
+
